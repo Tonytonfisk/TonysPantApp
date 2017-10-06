@@ -5,4 +5,5 @@
     <item android:id="@+id/Profil" android:title="Profil"/>
     <item android:id="@+id/Inställningar" android:title="Inställningar"/>
     <item android:id="@+id/LoggaUt" android:title="Logga ut"/>
+    <item android:id="@+id/Loggain" android:title="Logga ut"/>
 </menu>
