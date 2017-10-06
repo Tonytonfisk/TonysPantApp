@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Start"  android:title="Start" />
+    <item android:id="@+id/Mål" android:title="Dina Mål"/>
+    <item android:id="@+id/Profil" android:title="Profil"/>
+    <item android:id="@+id/Inställningar" android:title="Inställningar"/>
+    <item android:id="@+id/LoggaUt" android:title="Logga ut"/>
+</menu>
